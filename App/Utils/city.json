@@ -1,0 +1,123 @@
+[
+  {
+    "city": "Алматы",
+    "lat": "43.238949",
+    "lng": "76.889709",
+    "country": "Kazakhstan",
+    "iso2": "KZ",
+    "admin_name": "Алматы",
+    "capital": "admin",
+    "population": "1772775",
+    "population_proper": "1772775"
+  },
+  {
+    "city": "Астана",
+    "lat": "51.169392",
+    "lng": "71.449074",
+    "country": "Kazakhstan",
+    "iso2": "KZ",
+    "admin_name": "Астана",
+    "capital": "primary",
+    "population": "1065000",
+    "population_proper": "1065000"
+  },
+  {
+    "city": "Шымкент",
+    "lat": "42.317222",
+    "lng": "69.591667",
+    "country": "Kazakhstan",
+    "iso2": "KZ",
+    "admin_name": "Южно-Казахстанская область",
+    "capital": "",
+    "population": "1000000",
+    "population_proper": "1000000"
+  },
+  {
+    "city": "Караганда",
+    "lat": "49.804722",
+    "lng": "73.114722",
+    "country": "Kazakhstan",
+    "iso2": "KZ",
+    "admin_name": "Карагандинская область",
+    "capital": "",
+    "population": "526000",
+    "population_proper": "526000"
+  },
+  {
+    "city": "Актобе",
+    "lat": "50.283333",
+    "lng": "57.166667",
+    "country": "Kazakhstan",
+    "iso2": "KZ",
+    "admin_name": "Актюбинская область",
+    "capital": "",
+    "population": "428000",
+    "population_proper": "428000"
+  },
+  {
+    "city": "Караганды",
+    "lat": "49.798889",
+    "lng": "73.099167",
+    "country": "Kazakhstan",
+    "iso2": "KZ",
+    "admin_name": "Карагандинская область",
+    "capital": "",
+    "population": "400000",
+    "population_proper": "400000"
+  },
+  {
+    "city": "Павлодар",
+    "lat": "52.283333",
+    "lng": "76.966667",
+    "country": "Kazakhstan",
+    "iso2": "KZ",
+    "admin_name": "Павлодарская область",
+    "capital": "",
+    "population": "365000",
+    "population_proper": "365000"
+  },
+  {
+    "city": "Усть-Каменогорск",
+    "lat": "49.966667",
+    "lng": "82.616667",
+    "country": "Kazakhstan",
+    "iso2": "KZ",
+    "admin_name": "Восточно-Казахстанская область",
+    "capital": "",
+    "population": "348000",
+    "population_proper": "348000"
+  },
+  {
+    "city": "Семей",
+    "lat": "50.411111",
+    "lng": "80.2275",
+    "country": "Kazakhstan",
+    "iso2": "KZ",
+    "admin_name": "Восточно-Казахстанская область",
+    "capital": "",
+    "population": "333000",
+    "population_proper": "333000"
+  },
+  {
+    "city": "Тараз",
+    "lat": "42.9",
+    "lng": "71.366667",
+    "country": "Kazakhstan",
+    "iso2": "KZ",
+    "admin_name": "Жамбылская область",
+    "capital": "",
+    "population": "330000",
+    "population_proper": "330000"
+  },
+  {
+    "city": "Уральск",
+    "lat": "51.233333",
+    "lng": "51.366667",
+    "country": "Kazakhstan",
+    "iso2": "KZ",
+    "admin_name": "Западно-Казахстанская область",
+    "capital": "",
+    "population": "300000",
+    "population_proper": "300000"
+  }
+]

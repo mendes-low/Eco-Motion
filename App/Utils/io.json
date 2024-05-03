@@ -1,0 +1,906 @@
+{
+    "places": [
+        {
+            "id": "ChIJMbPT1OlPgzgRr-A852G3a8w",
+            "formattedAddress": "5HG2+GJ3, Жандосов ауылы, Kazakhstan",
+            "location": {
+                "latitude": 43.176263399999996,
+                "longitude": 76.55155959999999
+            },
+            "displayName": {
+                "text": "Zhandosov",
+                "languageCode": "en"
+            },
+            "shortFormattedAddress": "5HG2+GJ3, Жандосов ауылы",
+            "photos": [
+                {
+                    "name": "places/ChIJMbPT1OlPgzgRr-A852G3a8w/photos/ATplDJaC4yKXvyrTtEspzjA8ARlvyW0xEJZltv9MeQC-IrSCQE4gtQLq42840FwyaGwm4VgTQivZyOQa9zUDiRZ9ij_j_xwPS229r77JhD9Mv2qDblUyRwwegVWtJ1RPyJnJAKtbLtUQMuDlNyvYekR8LT6SLVQL74x6lBRZ",
+                    "widthPx": 1080,
+                    "heightPx": 1920,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Georgiy",
+                            "uri": "//maps.google.com/maps/contrib/100201353854544042179",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWiTWBQ_HiNItXelr2pj1JUHivghl7DQJ2ueufr6TIn0VeDmSfXew=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJMbPT1OlPgzgRr-A852G3a8w/photos/ATplDJao8S5AClbK_DkRdRRgkwhYHyjdmx-XbiG4xCb9w9CD7ptKHdBhYRkadldjlMmqA-n0Cc0gJhs4e22PrEyyjquzsotk6uwojayeS-yZsR3Gi8P68R-2R8YGm6BAV49Jor1Xv7LOPLdbgqBewYwyYDzeMH4JyFIBv4CA",
+                    "widthPx": 1080,
+                    "heightPx": 1920,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Georgiy",
+                            "uri": "//maps.google.com/maps/contrib/100201353854544042179",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWiTWBQ_HiNItXelr2pj1JUHivghl7DQJ2ueufr6TIn0VeDmSfXew=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJMbPT1OlPgzgRr-A852G3a8w/photos/ATplDJajF5cT-cIxvbT7keKe7ltP1wMz7btIEwiLg92nq5DxFJhuiCmhLT8LZsNhLh-_UU06fs021rDq5UQGI8lIeHzJ4gAw53_JMqPLMb5BWawcrlUrdS8KscKgq-qzTNKDuwLK0UqQGoB33G9OSMsVFdl-AF-3qNMVYrwa",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Aislu Begalieva",
+                            "uri": "//maps.google.com/maps/contrib/101487165188861257994",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJEPGSj3X6gN_fLX_b2d01_zF4VvxTTFP1MBCp2wTHpvCSOQg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJMbPT1OlPgzgRr-A852G3a8w/photos/ATplDJakObThi8Rf5t6mhnTcUi4UQpaun06SE0j6DAggKZUoyJTlOyQ3Z-V28HuASaRz1686_r5JV5tGvtU1gGcVEdryV6Ctr2hrFMkwr6lkYwYqBXWYowW6iHvTbipOibm7_uBpSHtVtgcnkvxEkZ4gVSfXwGC8JGXTlnbV",
+                    "widthPx": 1080,
+                    "heightPx": 1920,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Georgiy",
+                            "uri": "//maps.google.com/maps/contrib/100201353854544042179",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWiTWBQ_HiNItXelr2pj1JUHivghl7DQJ2ueufr6TIn0VeDmSfXew=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJMbPT1OlPgzgRr-A852G3a8w/photos/ATplDJYjy4IVJ_m8DMQgrfjBVC0ECpbLftOVX4Djm3o0zN_4Mea-QHChIXiLvTwar-e-rIY_CFS9JaEMj5pgqw-nQ_vI9pJCNDfgb3oeoMT8ruhzAtMgI_yK75tLxu5MHAV2nxYDoLpfUt2ujkPJUA-ofbXx2bDRnYTqbUjM",
+                    "widthPx": 1920,
+                    "heightPx": 1080,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Dzhakhanger Dzhaksylyk",
+                            "uri": "//maps.google.com/maps/contrib/108704633564358388953",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVqyW2HWAD28g10JhRp13WNSbGWi-bAGoZAiWGddX_wdIEtc-LD=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJMbPT1OlPgzgRr-A852G3a8w/photos/ATplDJYdNgJEUjd0Y9zSVg17cjjOnfD2Tx4M-MB9rBFmykNUZgXDIMN0QzGn_q7LZxHPttSFzD5KWltT5C8DmBWqjTnfGNad5fZXosOMabqU6wxwX8-vEwGSXKu2MhbGHnQx_xbsY5y0MQVz7RsZwQtSyLlbII1DdrBIUynC",
+                    "widthPx": 1920,
+                    "heightPx": 1080,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Georgiy",
+                            "uri": "//maps.google.com/maps/contrib/100201353854544042179",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWiTWBQ_HiNItXelr2pj1JUHivghl7DQJ2ueufr6TIn0VeDmSfXew=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJMbPT1OlPgzgRr-A852G3a8w/photos/ATplDJYejdbTmc7-eCgphLIQvogyEP-O-28YSVrcHbgLuZKx1bFRUHEPf8V99MFlagQxQUrM8iuxQ6t3TeMh4nUHF3MstR03l7Hx9gR5VMQJxgbSnmDGrTRGgYDcAKOzYEXJZaHG8Zt42Jc4nYcrKdRvdM9atGDmk8f8kcp3",
+                    "widthPx": 1080,
+                    "heightPx": 1920,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Georgiy",
+                            "uri": "//maps.google.com/maps/contrib/100201353854544042179",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWiTWBQ_HiNItXelr2pj1JUHivghl7DQJ2ueufr6TIn0VeDmSfXew=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJMbPT1OlPgzgRr-A852G3a8w/photos/ATplDJaAVZTZ-_byj8dVpLtA94Y-egplq4qY4gWN11A5jflAfgqFTJ5RA0pZLPCSPkzM64A7GTWPy-o4_ZH-n0zYTU7ps2gDdXfXiVAEaYtCmYjCuyQSf1HQadE8Pa0icUcn1Um0kYpejpl_JACzJ4TAxG70UJ8kqUyGJajf",
+                    "widthPx": 1920,
+                    "heightPx": 1080,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Georgiy",
+                            "uri": "//maps.google.com/maps/contrib/100201353854544042179",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWiTWBQ_HiNItXelr2pj1JUHivghl7DQJ2ueufr6TIn0VeDmSfXew=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJMbPT1OlPgzgRr-A852G3a8w/photos/ATplDJaKnvlzzkWZl9WjhPWpsqE9XPzowJrSk82oTajdofhriQN7nU4hmxvJ8Bt9Be9RjMskBnCUPxlnqyWPEJmDR5Ay5CE8iqmoQzLMECMB6LYprpz6RG3Ooy2BnrblBJiocJKqRxSI87isZOGy5bEF0lpjoFhTZ5qqMNPZ",
+                    "widthPx": 1080,
+                    "heightPx": 1920,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Georgiy",
+                            "uri": "//maps.google.com/maps/contrib/100201353854544042179",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWiTWBQ_HiNItXelr2pj1JUHivghl7DQJ2ueufr6TIn0VeDmSfXew=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJMbPT1OlPgzgRr-A852G3a8w/photos/ATplDJZ8o1C67ANvD6QaQPHpGisL1rIW_U_cCa1HzhmoXmyAkhFOlhXJYvtpFI12ra0zsv8DiADuw55eChBopz56UAwDCl4uHy5Q5iWPZ1aa1IcOuUp5XR13aTwV96SSKyllw28zRO1t6Kus4a6WbaoJZm0WOizCzAHeNrxK",
+                    "widthPx": 1080,
+                    "heightPx": 1920,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Georgiy",
+                            "uri": "//maps.google.com/maps/contrib/100201353854544042179",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWiTWBQ_HiNItXelr2pj1JUHivghl7DQJ2ueufr6TIn0VeDmSfXew=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ChIJ3V3ldk9NgzgRqOLEMCKQexA",
+            "formattedAddress": "37 км, Трасса А 2, Kazakhstan",
+            "location": {
+                "latitude": 43.219978100000006,
+                "longitude": 76.5461925
+            },
+            "displayName": {
+                "text": "Gorki Dlya Kataniya Santa Barbara",
+                "languageCode": "en"
+            },
+            "shortFormattedAddress": "37 км, Трасса А 2",
+            "photos": [
+                {
+                    "name": "places/ChIJ3V3ldk9NgzgRqOLEMCKQexA/photos/ATplDJYmkaDqssjDdnRYKhBSTWkOSSLxyFEg7qByz7qyU7Yv1uqLAB7_eAFDKmxf7KFUz_0G5qQ8tDbH_MFQSFeOa3fdrcRaQBMF1SHaYxvaLWBW9pi8IaOhsEhrQFMryGv9fUaxj9SumIggiabXsHJdpsEyx2ArIMznfmlk",
+                    "widthPx": 4032,
+                    "heightPx": 1816,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Ерлан Алдажаров",
+                            "uri": "//maps.google.com/maps/contrib/104438639389295295631",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVBzwpto0vMxySc3qDc2d93xh8quuleitLRYbkCdMIqXooxAIC6lg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ3V3ldk9NgzgRqOLEMCKQexA/photos/ATplDJbj3gdcwNMcP71tDRbnoJ2UYKjI8o1rSyZAhngCGILvQTa68GL3RlNr2DWDGl3AxFpr8uaYzx89HeRYHLnLDmw_RaCZMpYzhs-39rlrVt1npnj3YUzUsnj62k-rb6jJWEYSYVEaHEMJAPILRfQqVqQ-SQrsj_zyU_aQ",
+                    "widthPx": 4032,
+                    "heightPx": 1816,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Ерлан Алдажаров",
+                            "uri": "//maps.google.com/maps/contrib/104438639389295295631",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVBzwpto0vMxySc3qDc2d93xh8quuleitLRYbkCdMIqXooxAIC6lg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ3V3ldk9NgzgRqOLEMCKQexA/photos/ATplDJYSytr1SMQSLLX1AyorC-wbu4xX0RYHdQQJ-rPhEiIijL7I2aTLEg4k5xcxDDqJnJEAsxB90qha5FNF9OXQHcgyG3yE7gphpbhh9Y6q-lHmSlwIPTHghukmzFsmE2NeCZ6nmLsUhoCNfZ5snLSnMFcSS-10bgWEqs7D",
+                    "widthPx": 4032,
+                    "heightPx": 1816,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Ерлан Алдажаров",
+                            "uri": "//maps.google.com/maps/contrib/104438639389295295631",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVBzwpto0vMxySc3qDc2d93xh8quuleitLRYbkCdMIqXooxAIC6lg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ3V3ldk9NgzgRqOLEMCKQexA/photos/ATplDJZqhB965Q35-Ru7TskCxUTUsPFO67DKYJuH73ppeuREyep_51NB4KsxylGfSgz3sKq1Qe66hkr0lSDPVW_baGlpDR6rg3NgzFfWxcwBKCoLocUDJIJv6LRK5e6j4jrGLc6dA5CAPE3vNHhB1DheBsBTM9aQs3F_aRwj",
+                    "widthPx": 4032,
+                    "heightPx": 1816,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Ерлан Алдажаров",
+                            "uri": "//maps.google.com/maps/contrib/104438639389295295631",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVBzwpto0vMxySc3qDc2d93xh8quuleitLRYbkCdMIqXooxAIC6lg=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ChIJ41r3s5tPgzgRAN3aZR5hXUM",
+            "internationalPhoneNumber": "+7 775 920 5330",
+            "formattedAddress": "5JQG+679, Kaskelen, Kazakhstan",
+            "location": {
+                "latitude": 43.1880283,
+                "longitude": 76.6257243
+            },
+            "displayName": {
+                "text": "Rodnik",
+                "languageCode": "en"
+            },
+            "shortFormattedAddress": "5JQG+679, Kaskelen",
+            "photos": [
+                {
+                    "name": "places/ChIJ41r3s5tPgzgRAN3aZR5hXUM/photos/ATplDJbsxPB8kMsgwW1JkhbwScV54Xao0wINmjnfaSeyK0QpULixUmr6_qaCJw-zCu8-uOzjsAkICAg3SGnJXd5xjVBkBY12vO294XVOtAAde_IXP_BMQcW9jhGYj4iAbwMZ0t4QG7OJbN9VWO3sWdo5QbAFLKMXh24k07_m",
+                    "widthPx": 2604,
+                    "heightPx": 4624,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Жансая Ускенбаева",
+                            "uri": "//maps.google.com/maps/contrib/116286288444207560498",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjUCoSLtMx5uSjDzioPc1q4y0m4c-MKvCMZK7nayN67fB4H0_3rG=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ41r3s5tPgzgRAN3aZR5hXUM/photos/ATplDJYvOc0zma_-AxVkpNnhXENvWdLAjQGXAgbzsf5BPO6vdQE4hozIH0Nt8gJl-G_tGGlkkYk7eRwoww2KHvxoqNyMrp5BmxThloULCPvAiQooOfnPfJ_pdUeukgHKmwRBi3xuFMVQMtRgJXBd238K1CX-aNYnstZz88jQ",
+                    "widthPx": 2448,
+                    "heightPx": 3264,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Алекс Злодей",
+                            "uri": "//maps.google.com/maps/contrib/104183097144210031648",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXo6jhKTYxZeM8RplzwC2nUdp8YhpmAvciwxafziaR4yucczYY=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ41r3s5tPgzgRAN3aZR5hXUM/photos/ATplDJa5nrMNYas5In2w3et34Z8shF9bpw6pzS9n2eRNVoc3HfVySRLvZcWLkbxczWDq3E_O2LuIWyg-4URe0rHFg7Fg5TWSnqBRh-wK2ZYStjl3eT3NqWdos5U93GNU1xyFoHktWs7JWh0w7n8fUpeDvar-gOPcjTFK-BLr",
+                    "widthPx": 2992,
+                    "heightPx": 4000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Сергей Мартыненко",
+                            "uri": "//maps.google.com/maps/contrib/106153860577057252221",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI_5idrTVUbunXlmubT_Z3W-MRi2qk8omkHj74t8ZSfzu1cQQ=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ41r3s5tPgzgRAN3aZR5hXUM/photos/ATplDJZRktJdkVu7wtzCH_sSd9ZW_3q595Rxw0m1IuBEtlCEXAE0CtfjCb_DbbLE5OdJM8fVqFF8puDqqh3_WAB0Mg-bvCuS1TNEB9EqOeqREulwDdYpVEQ6QP0Ru-OCLPqMnchVpjI1gonmSVKnmsSe_qhWTBRd_a5qz_kz",
+                    "widthPx": 1846,
+                    "heightPx": 4000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Баур Аманбеков",
+                            "uri": "//maps.google.com/maps/contrib/114961331933044093993",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXagxnbq6gU05yEgRsGkNdoK78lLFKTF77hX8qWSm61WFJjC9k9=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ41r3s5tPgzgRAN3aZR5hXUM/photos/ATplDJaOOaSeZu-F6_ixZjvP5-tHQOgLNmKSaUS3ojHspGRX8AIl0vmGE-tUgIm5WNstjPgnHm2T-rUqaehI_p9qEKzsqQRhgxa-jltMVs_40Shfj1XDYEDL_ShHoulE76fzs05bqDvXwhm2g0k7SjHcQTH4W0AxfcsbaPsz",
+                    "widthPx": 3096,
+                    "heightPx": 4128,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Алтынай Жанкулова",
+                            "uri": "//maps.google.com/maps/contrib/102689452941094315733",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJxKkf9t9KKNZHlUC5uVDqQBtTWgo8hfMEM2M5Fxzb0Phk24A=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ41r3s5tPgzgRAN3aZR5hXUM/photos/ATplDJZKC1XeHPodJ7rZjt98lTAQLYoDSkWIcSVd9sfW_txlzLN0H6oLDzaQtRfW56f6hmmVktTAiXNcO2fqmM6HNPygZ-UXcWDNdAdZSzEFgsmSth2ZPPdicDAqmp56GmZXTkapwhAdxJf3gIoWtZ-wlKBYvt7AX6AygllP",
+                    "widthPx": 1846,
+                    "heightPx": 4000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Баур Аманбеков",
+                            "uri": "//maps.google.com/maps/contrib/114961331933044093993",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXagxnbq6gU05yEgRsGkNdoK78lLFKTF77hX8qWSm61WFJjC9k9=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ41r3s5tPgzgRAN3aZR5hXUM/photos/ATplDJaiKSlPp16Sc8OV29K79Lr4otHus6wCJ39N1b99v9B0eLFDpoNlAsdsg_wpa7mkuUW1C1k8TCeHD9i_Z_OKoLoMrmniuZh64l5LSIg2ieXyb-EQYE7Cs8xSZJ9sT2wIF9vupn2XmySiQQu4f318_Aqv3yO8ewZNhZPQ",
+                    "widthPx": 1846,
+                    "heightPx": 4000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Баур Аманбеков",
+                            "uri": "//maps.google.com/maps/contrib/114961331933044093993",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXagxnbq6gU05yEgRsGkNdoK78lLFKTF77hX8qWSm61WFJjC9k9=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ41r3s5tPgzgRAN3aZR5hXUM/photos/ATplDJZLkOC3z1Q_kbtxdes8sc8pAbpMeCoVWVM2-ENvJNfiBlhW2NA5QRSVg0zFTNfU1FuYWBLGn90jHRLfudmj7a236MswkdgJ7s-ibdawTaH2y4Gx2JewZ8C9SJGQfya5MQjoY_BiK73N82m4PKjXlM2dwxal1tF_p3u2",
+                    "widthPx": 4000,
+                    "heightPx": 3000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Евгений Пылинский",
+                            "uri": "//maps.google.com/maps/contrib/111591048121757999624",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJUmzAqaHBPahDsvJRuzUl-CGqHqBdCfs5yhmWwyk8LDoZ78Q=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ41r3s5tPgzgRAN3aZR5hXUM/photos/ATplDJbuEYh_5lwGbyN92YLkrNqkop-2qNLF4rsqVaKhtMl01T1uptI09wflmGI8kG0wKKhqoxFH2hPae39avLKEANNFJBS-c3nHkAsDkJGeqzwP0MrtWi33Fxh6Si28Fy69HbhScuPXSwfaGEf8TzammXO0m_OdvcDv-iIr",
+                    "widthPx": 3096,
+                    "heightPx": 4128,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Баур Аманбеков",
+                            "uri": "//maps.google.com/maps/contrib/114961331933044093993",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXagxnbq6gU05yEgRsGkNdoK78lLFKTF77hX8qWSm61WFJjC9k9=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ41r3s5tPgzgRAN3aZR5hXUM/photos/ATplDJbnGpir5Vg_Mm9IupwsThTw0jlqFkBYQcZFnhdO5dlyBE6OkLWoo5ujqh5HycBiWP03wLUmqVOnnyhhqvQCkEJ_9OL2LLzFgpLeGdP7ppYtKNMdtGi5JiUXFdq6e_a0zVrZ6L6ZOtqCqX8-jMfOEoSaZWXxDgLwiZj7",
+                    "widthPx": 4000,
+                    "heightPx": 3000,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Евгений Пылинский",
+                            "uri": "//maps.google.com/maps/contrib/111591048121757999624",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJUmzAqaHBPahDsvJRuzUl-CGqHqBdCfs5yhmWwyk8LDoZ78Q=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ChIJIT6mmg5PgzgRKTV5v30cTFk",
+            "internationalPhoneNumber": "+7 771 193 3900",
+            "formattedAddress": "ТЕМИРБЕКОВА 5, село Жандосово, Карасайский район, Алматинская область Алматы, Жандосово 050000, Kazakhstan",
+            "location": {
+                "latitude": 43.171043399999995,
+                "longitude": 76.56327259999999
+            },
+            "displayName": {
+                "text": "Klevoye Ozero Zhandosovo",
+                "languageCode": "en"
+            },
+            "shortFormattedAddress": "ТЕМИРБЕКОВА 5, село Жандосово, Карасайский район, Алматинская область Алматы, Жандосово",
+            "photos": [
+                {
+                    "name": "places/ChIJIT6mmg5PgzgRKTV5v30cTFk/photos/ATplDJZoqWNTzMEyAjB7HLpo3xJ2F-BxdkoX3RQd1s1dBSSWFuORVQdSwbf-Azn7OIal53Q68tiy0__XzasL3dNlQITZ6Ui7anClV9eVK7SNJ9cgA5Vtd82uRgbT2XlXHeDk8ojnaAuskxeu33sYygte1CjLLb1DBKwES-wW",
+                    "widthPx": 564,
+                    "heightPx": 752,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Клевое Озеро Жандосово",
+                            "uri": "//maps.google.com/maps/contrib/103614475973076251704",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXC3RaYO3qDA2BF7hcQvudGvTbjimFqck0jIfDpM4nixwISe6g=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJIT6mmg5PgzgRKTV5v30cTFk/photos/ATplDJa7Kt4MdG6UyuoiJjHxsiq-d0HgiQrl9p8PE1vmBhDX9DhuSJREyoz7zPmJOauTEDvRTJQ6rO98LXSHm1_wINHqtfHXytRM7OO0mGCAK1mVNk_IW-TqZanXJTbcTtRURWJr_RrIcgZUgSTiq-ANtsq-XAbozu_D2QM6",
+                    "widthPx": 1816,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Клевое Озеро Жандосово",
+                            "uri": "//maps.google.com/maps/contrib/103614475973076251704",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXC3RaYO3qDA2BF7hcQvudGvTbjimFqck0jIfDpM4nixwISe6g=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJIT6mmg5PgzgRKTV5v30cTFk/photos/ATplDJYaMpJlDTvTQyhJq4NhMOR6XV2btOypENID1K8qLRBFwXp_S8eRdGLZWDDAIkHwNUJf5JiX6jE6yxyXIVGU4UwE2exKNFMdD7r6e82Y6CxCse4KUUQrOsaEKuwYNjyNiKAs-bNUyDVts8gtzZ3qIm_NUTZLNJprk6ng",
+                    "widthPx": 1816,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Клевое Озеро Жандосово",
+                            "uri": "//maps.google.com/maps/contrib/103614475973076251704",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXC3RaYO3qDA2BF7hcQvudGvTbjimFqck0jIfDpM4nixwISe6g=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJIT6mmg5PgzgRKTV5v30cTFk/photos/ATplDJYFGjh_hxKDyA67omSiDUJSt3VNiQxrxuZJCCf07zkmolmApezWqRtdJ3FJZazo4nMfDPOCWdw9UY3gA-fii7uJiJbSvqEoXHxMjGYuH66SgE75otNKApDAIfEQZxqp06yyi_iVWOvdIi2rizf4X3IBg8YEh7iZBbs4",
+                    "widthPx": 564,
+                    "heightPx": 1002,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Клевое Озеро Жандосово",
+                            "uri": "//maps.google.com/maps/contrib/103614475973076251704",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXC3RaYO3qDA2BF7hcQvudGvTbjimFqck0jIfDpM4nixwISe6g=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJIT6mmg5PgzgRKTV5v30cTFk/photos/ATplDJbK9Xs4pgsLxiecKORxSZOMuQBIZAF2UE3CAvXf9JY3cVVWeWhCrs-rLX5gSLVFqaETrwXXznMSJeYhbNc5hbAs40oDG0gFmckOW0OTbc1-WL-pa2DkjcFvioy1uu78i8y6hVaciB7PAE85vBylvvzNluW_R0lrVtLt",
+                    "widthPx": 564,
+                    "heightPx": 705,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Клевое Озеро Жандосово",
+                            "uri": "//maps.google.com/maps/contrib/103614475973076251704",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXC3RaYO3qDA2BF7hcQvudGvTbjimFqck0jIfDpM4nixwISe6g=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJIT6mmg5PgzgRKTV5v30cTFk/photos/ATplDJZel8WjN5iW81cAEmJ4mGoaqWEDJle1k9aQTIf86xfLY-6bNZj6kkjU6YEEwAg0G9zK-4LtfOT4-MApGreaGyGvXoQaai_zA2uR6D1len5wGnSSXKNNLpwSdWkTZl4LNSV_4_h7mjE1hk66__ojplcTfRg4LenT7UsK",
+                    "widthPx": 1816,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Клевое Озеро Жандосово",
+                            "uri": "//maps.google.com/maps/contrib/103614475973076251704",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXC3RaYO3qDA2BF7hcQvudGvTbjimFqck0jIfDpM4nixwISe6g=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJIT6mmg5PgzgRKTV5v30cTFk/photos/ATplDJa9tKlcUytkgtWZNkD8d1v0dx6a91SFBI9A1GbdCR1S_UjEfk6VLH_z6f6MKibgQMh4boDnFB0YWxcWVzk28WRiSRTuKoh6-9EUPb8xcCfiJ-RJB3AXkTVIKvGUKhkaO61orkHzFi_sGWBIxiKSUjhsN7h2I5arpWaD",
+                    "widthPx": 1816,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Клевое Озеро Жандосово",
+                            "uri": "//maps.google.com/maps/contrib/103614475973076251704",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXC3RaYO3qDA2BF7hcQvudGvTbjimFqck0jIfDpM4nixwISe6g=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJIT6mmg5PgzgRKTV5v30cTFk/photos/ATplDJYkqN5f-rP-mgzgqAG7-B4_4tyO4FNxto-JyW7-Ltw3_HtUgzv9NEHtOYlEGjQSzM4sRtEd-BcBck943Qr3ivhhdQNYn2rhUf3uNtnom4QNgHw-cfvTkcdDeCDAG4FAYt4Yv5ATPtxaesZQUV10J-Vu0-oLZhJBk5JY",
+                    "widthPx": 564,
+                    "heightPx": 752,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Клевое Озеро Жандосово",
+                            "uri": "//maps.google.com/maps/contrib/103614475973076251704",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXC3RaYO3qDA2BF7hcQvudGvTbjimFqck0jIfDpM4nixwISe6g=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJIT6mmg5PgzgRKTV5v30cTFk/photos/ATplDJatCJfkZoI83uu7StrWN4gvPy24I8U-EdcemQ1C1gksQlGUT_Nf3ComO9mOZxOcJYLQqwWC37HVU8tM_JblKaqaPH4EbZYRt6JKfAWLEM6N_0SSio_QVJLAfzvKlnDcEFb_l1xWVa2DOYDUvNpDOSWPQlkrotdKjGrb",
+                    "widthPx": 1816,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Клевое Озеро Жандосово",
+                            "uri": "//maps.google.com/maps/contrib/103614475973076251704",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXC3RaYO3qDA2BF7hcQvudGvTbjimFqck0jIfDpM4nixwISe6g=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJIT6mmg5PgzgRKTV5v30cTFk/photos/ATplDJbqbUegOVHXCro3_hZwddcwmAsD8eyMvvdI6I3tVuz3y9507X-RY7VynPoAN5u3GiVeC42j98Aa7ptKeS3tin6Mn1tDUC4d4CEtcK8Nh2lTW556IEGEe6-rfLBSAyz_fzkEdD_nPzFomJMw2q2K7-eL7n_aOTmAZ7O2",
+                    "widthPx": 564,
+                    "heightPx": 752,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Клевое Озеро Жандосово",
+                            "uri": "//maps.google.com/maps/contrib/103614475973076251704",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXC3RaYO3qDA2BF7hcQvudGvTbjimFqck0jIfDpM4nixwISe6g=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ChIJBb03ZnJPgzgR6g-EIsgjcso",
+            "formattedAddress": "6J3C+7M8, Kaskelen, Kazakhstan",
+            "location": {
+                "latitude": 43.203156199999995,
+                "longitude": 76.6216936
+            },
+            "displayName": {
+                "text": "Victory park",
+                "languageCode": "en"
+            },
+            "shortFormattedAddress": "6J3C+7M8, Kaskelen",
+            "photos": [
+                {
+                    "name": "places/ChIJBb03ZnJPgzgR6g-EIsgjcso/photos/ATplDJYydmevPrRfvnb6MxESUuGgwqFL_CftvFOxJUlAvZR6X5y5h6UaoXs2_Y0by8Q9vpDgZc1zFZC_jV1KqLSqmt9qsbW5kgHsYRMIvAfjt8YVuPu1JJZoEUcW86RiypWmzT4MLSKHEwqA9CeD5VExfvE-hr9z6171VtDh",
+                    "widthPx": 2404,
+                    "heightPx": 3205,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Esten Erbol",
+                            "uri": "//maps.google.com/maps/contrib/102052063500477133810",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVeleR2TJOXepk3_PX84zBm2kNXQroyee-_uO2fMzwTxXipZME=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJBb03ZnJPgzgR6g-EIsgjcso/photos/ATplDJYXR9YSE5_I4dGrqgF61o4wZOjtx2XHVgfu6W8-T0q5lp7nydorAW5YXEVmCTIPFV0ACbUDUIFlIlNYS9g0kkOI5XiqYtA3-eCTHamUQaia8HFPvi32Ra3dztHdqjBdfgolvKcVUk8f9Wy3uILMn9ec0grE2_H-KBIl",
+                    "widthPx": 3120,
+                    "heightPx": 4160,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Лариса Ковергина",
+                            "uri": "//maps.google.com/maps/contrib/115082434570854261317",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjWAicfVlEOtkgboDQgUBcTZIJgcysINyOP6aKbHvUsVGZYXM1ESrw=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJBb03ZnJPgzgR6g-EIsgjcso/photos/ATplDJbwwol380fgDxg9U3RIJ-8As2uaigftNYtFiN3IDQbMevAh532FeIUfy231G78AhYjdI6SxCAtoGSKTpRFkHTpioggQNkcFyjs5-EAP6XDNiryraxAswQq6qoPJTWvdd-GMaWih0nwLa9ClGmT_NaoU4dGzeqa-Fq-3",
+                    "widthPx": 1080,
+                    "heightPx": 1080,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Kadir",
+                            "uri": "//maps.google.com/maps/contrib/108723688748888947847",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVnz83zZlL5GuSt_bwEgcG4_1vc9Us9zCoH__oplNCMaazzqdU6=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJBb03ZnJPgzgR6g-EIsgjcso/photos/ATplDJaS4vmewX8Oh8dyQlAm2Tx1QYnym4d4af64ELx45YJMBHSfur3psI5yMUEMDkERXTd-0OGEl3isqP4lG4wwq3cDUZgLKv7Lz0Jno316PRViQKgC6xLoeqgkmnCE3vtPBrQ7g9-guDa-VU6N9qMZAbUY6wY0Lnc1GJXZ",
+                    "widthPx": 1080,
+                    "heightPx": 1080,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Kadir",
+                            "uri": "//maps.google.com/maps/contrib/108723688748888947847",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVnz83zZlL5GuSt_bwEgcG4_1vc9Us9zCoH__oplNCMaazzqdU6=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJBb03ZnJPgzgR6g-EIsgjcso/photos/ATplDJbIjlWWy7XLVgJ-X1FagCAPaKXqbWM8TTAcBxhgh2wwFyXaafrQ4JocVRpyrGHTbbgF30TFd8GOJABXcttb-GVJuXSMQF0gEGiV0eH1EQ0SH-mCqYpamAXX-L2_fVNNWfmPe1zRw7l4YpI-s8oufgluFVtmObJdB0j1",
+                    "widthPx": 2339,
+                    "heightPx": 3119,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Esten Erbol",
+                            "uri": "//maps.google.com/maps/contrib/102052063500477133810",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVeleR2TJOXepk3_PX84zBm2kNXQroyee-_uO2fMzwTxXipZME=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJBb03ZnJPgzgR6g-EIsgjcso/photos/ATplDJaHf48Qu7UFztZILNQAJCw2eWJCBclwVgeARPpSk5t-GVzuh1aLjsh5_bHRmOP6mL4mxSNV3D-A59UUgy_CqI6ufGLhJZBnietco2v46aP6jXlhu0Bwx95PezPXWzxiY_AMRStw89_H-WziQMEbIzKtS1xFbgHWL0yB",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Kadir",
+                            "uri": "//maps.google.com/maps/contrib/108723688748888947847",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVnz83zZlL5GuSt_bwEgcG4_1vc9Us9zCoH__oplNCMaazzqdU6=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJBb03ZnJPgzgR6g-EIsgjcso/photos/ATplDJZZTJn7XofWrJXwii3D95LhTYQwxm5lNB_fa14XLWjA4bAjnvrqKBm--xD0EOrD4TaQpf3SR0p5QnqaEd8B6Hx_elDQCX-Q1iGOqnN7tRgSS4XkTD3SAZ8nA1sRTqzxB13T298Uw1uoRq0eVQOgqYPAsUWh_e5BDXkX",
+                    "widthPx": 4032,
+                    "heightPx": 3024,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Kadir",
+                            "uri": "//maps.google.com/maps/contrib/108723688748888947847",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVnz83zZlL5GuSt_bwEgcG4_1vc9Us9zCoH__oplNCMaazzqdU6=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJBb03ZnJPgzgR6g-EIsgjcso/photos/ATplDJYrwD-M6x458tS_rrlPsbB6aFWcrEe6bjit758EEXKenqK4YiCu6fvhMu2er4okZoEq1blfY966po7kChGg8DthbZZW5_y9MLFtdUNAZ_zxV45fCuZQtrd3QQIaTj-2iRORzkADEtZMhEBv9MMzu8BG1HEuqlFs6HIk",
+                    "widthPx": 1080,
+                    "heightPx": 1080,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Kadir",
+                            "uri": "//maps.google.com/maps/contrib/108723688748888947847",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVnz83zZlL5GuSt_bwEgcG4_1vc9Us9zCoH__oplNCMaazzqdU6=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJBb03ZnJPgzgR6g-EIsgjcso/photos/ATplDJa-1n0U-EvGao-V5RcD90zdx3xOb65PJNKDMdIA6L6iKZ-ru82MsBwM6SYTxeSzL8Y1ciJyrzAjvsNxnHxgzlVx39f6bRLSGlNQCtCb8Ech6Wyti_eXVRNqx5xA9oGwkgE-fLHkjykuTOq-QInILDRRk4h7CGKJDD3-",
+                    "widthPx": 3120,
+                    "heightPx": 4160,
+                    "authorAttributions": [
+                        {
+                            "displayName": "DASHA",
+                            "uri": "//maps.google.com/maps/contrib/111202278703059971462",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjW_sHqm5tOFTbBMf-asnG4J2Oc7WSC8mR7bR9lBZZJEVCJWoFBtBA=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJBb03ZnJPgzgR6g-EIsgjcso/photos/ATplDJZqb10PpYDNDoXBjCaOBwJm_vqfymY8RJ01bvwFYLQ_cxusEtFcFz2nixQpLMzfGF29SbPnKFhshdU0cPEUBuw7yH7km4747KwN1I01DFgxOUgROTDcLDWvVC4sn_ITNZcIsUEWRrL7I7y2jV9SjzL1kogKWXryRscg",
+                    "widthPx": 3024,
+                    "heightPx": 4032,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Kadir",
+                            "uri": "//maps.google.com/maps/contrib/108723688748888947847",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjVnz83zZlL5GuSt_bwEgcG4_1vc9Us9zCoH__oplNCMaazzqdU6=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ChIJ8X12x6tOgzgR2qW-0JyktpM",
+            "formattedAddress": "6HC3+83R, Ushkonyr, Kazakhstan",
+            "location": {
+                "latitude": 43.2208614,
+                "longitude": 76.55262739999999
+            },
+            "displayName": {
+                "text": "Anyraqai shaiqasy eskertkishi",
+                "languageCode": "ru"
+            },
+            "shortFormattedAddress": "6HC3+83R, Ushkonyr",
+            "photos": [
+                {
+                    "name": "places/ChIJ8X12x6tOgzgR2qW-0JyktpM/photos/ATplDJagn55W1j8YV0G455KPoGgAH1bIlnqEu--gevyKzJtI_AhpwdYqile0Hg3sS7UuiAp2pC6O80KXsybXFgIdhIT8NgJhT9-8K7fv6NzW6GYd-3ov_EQ13znESZOe8PLJK63HQOpW_GGhrON67S-k7rCf-LWa-ErnRgq8",
+                    "widthPx": 720,
+                    "heightPx": 480,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Batyrjan “Steppe daddy” Seidomar",
+                            "uri": "//maps.google.com/maps/contrib/102902992261756779094",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXUBhRE6uyVa-o6g6AqD1_czm9Cc9m86VE6GAiUCNwv6uuT2c6TBg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ8X12x6tOgzgR2qW-0JyktpM/photos/ATplDJY4PHvMvU4bIjdmZPsPDYIYWdSlUOezpQjM0k7iWycrObJYvYfsJmavTX0xPKR1EhzuPQI792Y2hMDr5aOTsqBCdMLPds4t7HxKk4q8BqU2fPIXX9TLV68p2_YtNTxvZ3OPYd3SG42G3otNQWao4CA0IpYRWvmg0sCs",
+                    "widthPx": 3480,
+                    "heightPx": 4640,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Мухтар Кабулов",
+                            "uri": "//maps.google.com/maps/contrib/110678194782999603169",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXx2--spb3gccx9jv0xohzIOrcV5W_co2xGE3hNhmjVyquzm2I7=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ8X12x6tOgzgR2qW-0JyktpM/photos/ATplDJbUI-Q9V4htQt2wzAPblPT1T2bIHV1Ch7TCOmQ0_NirSll982q6fSHOuRDQkn1Nm-mbY9tkl0S1B-LP4wY1t8_sXsfFo4HUCNmKrZGJhZH35U0NofArKAmZziHVEosPr_xH7rHSCFfO4jiZij1UVl-Tf46Kq_agz2wh",
+                    "widthPx": 4128,
+                    "heightPx": 3096,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Абай Каиржанов",
+                            "uri": "//maps.google.com/maps/contrib/113363370990843536237",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjV_u9H92rUqNH9l6VhEHuW7fJYgxMw_Ag1RcE_0Ul5F9LF4rTpFSQ=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ8X12x6tOgzgR2qW-0JyktpM/photos/ATplDJbhOXc4AGTrGscVN3_goE0RHdkOkdKiwKY_cD-V34TuRFlsRiY8KYbcNXPwMoy57Jd6ZTnV0yEoozwwJkJNG1vhX4Gj9u9f_Ay99zz_0rmYlI2e3n6tWLj5vkwe7eadK8fITxfYKBbCVNhck_a59YpYhxUmRZ-Xl6Y-",
+                    "widthPx": 3120,
+                    "heightPx": 4160,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Молдир Баядилова",
+                            "uri": "//maps.google.com/maps/contrib/115564129848217788201",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJf1ZjGId5kPblf88fwj77XaqJyx_4uayQqE-PRhel_7qRlYg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ8X12x6tOgzgR2qW-0JyktpM/photos/ATplDJYKh8bG_4oZ9b-BeN4_WwLRWJ3bYL4XZknttuvqG729y8IoYI6QkPnG_h3CIRcgtyg6iryk7Yv1bkfAmnajclp3DIjgHlj8l6JtUAAWIvC9x4HucbWUljvvyhotyPeCRcqtUPA8ahDUzuL6CnwxZstdEkCAuH0KcWx_",
+                    "widthPx": 720,
+                    "heightPx": 480,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Batyrjan “Steppe daddy” Seidomar",
+                            "uri": "//maps.google.com/maps/contrib/102902992261756779094",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXUBhRE6uyVa-o6g6AqD1_czm9Cc9m86VE6GAiUCNwv6uuT2c6TBg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ8X12x6tOgzgR2qW-0JyktpM/photos/ATplDJZS7JJZoG8xmwhiGrb2pWXZdy7kzDUz50SfjDvNnZJ9ScIS3RddTJ5h0izZgZNHh4DDdaXYiVPhsvg1pz36iRUgUKcM1aQxggFNdhQjmnGyMfCnAhBlA-uCBh59DXq2JS_T73mkfJmBkGQPdlXn1xPWZg0kRt3q6led",
+                    "widthPx": 1536,
+                    "heightPx": 2560,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Нурсултан Князов",
+                            "uri": "//maps.google.com/maps/contrib/110858722459318783209",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocI3YVrFTSn8yNfrW22IHwJhZaYzl27tuWvOztmtF3l5573BJA=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ8X12x6tOgzgR2qW-0JyktpM/photos/ATplDJZfb6vCo40yaKtXoIxqL0fGDnrGO-hPzJh6MAWyYgx68WtX6apDt83nIP8UGM7yclJTsF4ROPRPKKpe246wBQ3Zw7B-V2evhkU0D-e-swn1N9TB-A6c20PAy9tG6YoGT9D4RAg9w5dYzPEHgB6W3mLrkEFtl7fJYVYi",
+                    "widthPx": 4640,
+                    "heightPx": 3480,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Мухтар Кабулов",
+                            "uri": "//maps.google.com/maps/contrib/110678194782999603169",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXx2--spb3gccx9jv0xohzIOrcV5W_co2xGE3hNhmjVyquzm2I7=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ8X12x6tOgzgR2qW-0JyktpM/photos/ATplDJabTJqtstT-zVovXq8epZigiJw2rhkl9kWexooeLtbSZy-kkCYmpDdtz5y4j1HsA5r-4xEJECXC5rBskTEm3SiUEr798uiUzQf8vBOdeuc2V9vxDLEHCHhmBQWLYYaVMgaGfOcJuXxY_egsc_3KeBscYCD19xZeNeua",
+                    "widthPx": 4160,
+                    "heightPx": 3120,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Молдир Баядилова",
+                            "uri": "//maps.google.com/maps/contrib/115564129848217788201",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJf1ZjGId5kPblf88fwj77XaqJyx_4uayQqE-PRhel_7qRlYg=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ8X12x6tOgzgR2qW-0JyktpM/photos/ATplDJbeLkYdTKCOyBShyXlGL0mzx0LVCsS6RnfsvrZQlxPh_uYbKUsAIAB7l3SpcGxBDt5LvidUxcJEa4dlH0QxBwkiPrEPjLnFYdja5jfQTok50CZ7yzq0LjwZlUehSsffaJSOaewlA1WVs-6uyhs7DcyZ7eYDU60dpXS9",
+                    "widthPx": 2688,
+                    "heightPx": 1520,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Амир Турсынхан",
+                            "uri": "//maps.google.com/maps/contrib/109771177440125228285",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocLifEuYglusgAhCYChDFx5f0kOWHRVN9LwDnO3UUfVXbhEh_A=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ8X12x6tOgzgR2qW-0JyktpM/photos/ATplDJa0DOAbMMl_z3ZXsZIgZWxtlzaI3ZwhcWeOcagLL0z2bsoyEAD-JlmTQ0Qvq2F15xgO2OQX4ziG51D55aegYieZT3JsGc-X26miQdfaJvHSOlfh0etnuXLE83knOOCnYzG5T0CFYFvBgmjK5SgmJfhM6pxWO2emEOi5",
+                    "widthPx": 720,
+                    "heightPx": 480,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Batyrjan “Steppe daddy” Seidomar",
+                            "uri": "//maps.google.com/maps/contrib/102902992261756779094",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXUBhRE6uyVa-o6g6AqD1_czm9Cc9m86VE6GAiUCNwv6uuT2c6TBg=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ChIJ4-V6ucZOgzgRxUFh0Cfr5q0",
+            "formattedAddress": "6H7G+GJQ, Шалқар, Kazakhstan",
+            "location": {
+                "latitude": 43.2138482,
+                "longitude": 76.5766003
+            },
+            "displayName": {
+                "text": "Uchastki",
+                "languageCode": "en"
+            },
+            "shortFormattedAddress": "6H7G+GJQ, Шалқар",
+            "photos": [
+                {
+                    "name": "places/ChIJ4-V6ucZOgzgRxUFh0Cfr5q0/photos/ATplDJYcU7SVgAAPNqUl3BUv5FZQwO6huU1MEkFmN9_aYGMAxkkSeEebH4wUPSqF_4XxoKcTHYkWY72d1JFt_NtIohDHaO67y3uBi_haEKNLGQSgbgA4GmI29fOz__-j4oOBmA6qEoFUF82u4ddmhy6A_6i0kYnhgkDJFs8N",
+                    "widthPx": 4128,
+                    "heightPx": 3096,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Болат Жамалов",
+                            "uri": "//maps.google.com/maps/contrib/100393040842454344112",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIiOIO-YGeDuHTSU08BuYmvZQwA1Mso-KYq4iypv99jB7IQNw=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ4-V6ucZOgzgRxUFh0Cfr5q0/photos/ATplDJYEJ_O17Grsv9tTXN2QbTvyWhaNNQAR_j4g6UuxyZMmxj-2DVjspqeLdMBOMK2h8BiTfh6Xg3jeURJdj-qNYWKZdY6BpdPxXSXBLfdZUK9k1uJIWiakiCYW4oC_Ti1i8SlYtohqXf6FBikU_5hpqdAUkTVDFzoAaBSN",
+                    "widthPx": 4128,
+                    "heightPx": 2322,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Nurgul Utemuratova",
+                            "uri": "//maps.google.com/maps/contrib/115152194322492959574",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKBDwW2cgDm9JJuzuOitZUyFAmfouOgSkB-EjYnp3jELwExGw=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ4-V6ucZOgzgRxUFh0Cfr5q0/photos/ATplDJZgQWNaEJw47Q8g0XNWSA6M8BQ6u1CX9FSurZV1bnrXtS9E5KTLvG_q2nqBwvtZgucqgSmyrZWzs0aEn9RTUh0tbYv762z9zzljkx7rPlKH-cgFVoYJg67J8N5q6ai9Y_a64L6YbkINIyhRDHwtKhLo0_e74M7dpSe4",
+                    "widthPx": 4128,
+                    "heightPx": 3096,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Болат Жамалов",
+                            "uri": "//maps.google.com/maps/contrib/100393040842454344112",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocIiOIO-YGeDuHTSU08BuYmvZQwA1Mso-KYq4iypv99jB7IQNw=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ4-V6ucZOgzgRxUFh0Cfr5q0/photos/ATplDJbFkzviIQPamNnNZn7BzjBY0xtQhHjk0Paecbva-eOYUQ3hLPswNTVir6aJ5mEUQms3Y_9x595b7Obl_DaUiqg3WI1KPNqBXoSwB-sc04igNMVnYjnu5VZUnfSlKqSTy3UJCkrX0VQKBnLyJTdPZrb3Doc6hjofGMMK",
+                    "widthPx": 4128,
+                    "heightPx": 2322,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Nurgul Utemuratova",
+                            "uri": "//maps.google.com/maps/contrib/115152194322492959574",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKBDwW2cgDm9JJuzuOitZUyFAmfouOgSkB-EjYnp3jELwExGw=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ4-V6ucZOgzgRxUFh0Cfr5q0/photos/ATplDJZG9jbfyAqwO70iXp8fJsmyKp2-fSwpgc0gnk8ndL0DaORcjDCiUtC-edN1cUf2-P1APmo_KvC0bsnimDiPyZEjXvyFyxVvSJnMc1IUz0Mx7TeaYJC33IkZy9YInHtAFRMX__RdR13Q1LS5SxN8H7PjWxHNuGK2Pxe-",
+                    "widthPx": 4128,
+                    "heightPx": 2322,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Nurgul Utemuratova",
+                            "uri": "//maps.google.com/maps/contrib/115152194322492959574",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKBDwW2cgDm9JJuzuOitZUyFAmfouOgSkB-EjYnp3jELwExGw=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ4-V6ucZOgzgRxUFh0Cfr5q0/photos/ATplDJbwCibvYXqS8JEyknGY4_6_P75Z82UpRkRgc_y-ON-P9IxfoOfgdFj37wuuf2-59wB0Ap-f8bWYXTX5To9vTInsyp_kVIGfI6HDzm0_X4tjk03yX_ax-CkuwH0JQ8c1CQ-_jsk8vf_5Qpb__XKRIExP1lG_RgnwMBpM",
+                    "widthPx": 2576,
+                    "heightPx": 1932,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Nura kz",
+                            "uri": "//maps.google.com/maps/contrib/113251855022336956239",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXAg3LZepZmbFPijo86bx3syr0kG6JqD2YzThOMQyQDlz9xPcSG=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ4-V6ucZOgzgRxUFh0Cfr5q0/photos/ATplDJZvQH310ZY37LGoVPjTwHTitsfE69ldLKO_JRwvqLtBHQaIoE9KU6m0bXnAMMrAO-1E5Qh181bVqNQ46EvnWb1joZW_JKmLM1p9oQHqGB0M0gzURAogFkQSdDxafx5XQo_jeuKU1anHB_1XZC0R7Wk7nRPKSjRUy8Xi",
+                    "widthPx": 1536,
+                    "heightPx": 2560,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Думан Жолбарысов",
+                            "uri": "//maps.google.com/maps/contrib/105239569878306265845",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocKzBvMIsTZRcCu7mPaS73pVyoVGEFVpipPZmCeiCF52iXPcNA=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ4-V6ucZOgzgRxUFh0Cfr5q0/photos/ATplDJYH03eXwWT69dNyBZpx21isNQbmkU84HAbvOhI-hgQvGUcylrqlrg4Fz0agzizy6v5Mvr1AteG8kCcFClxhFlaS0BAJhZIowGeSorqxVfsWlA2KmcHc4wfSJPd8EyI4BZMnWTk41kQlHORRoNu9_wbbxPfPy3BNDX_a",
+                    "widthPx": 2576,
+                    "heightPx": 1932,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Nura kz",
+                            "uri": "//maps.google.com/maps/contrib/113251855022336956239",
+                            "photoUri": "//lh3.googleusercontent.com/a-/ALV-UjXAg3LZepZmbFPijo86bx3syr0kG6JqD2YzThOMQyQDlz9xPcSG=s100-p-k-no-mo"
+                        }
+                    ]
+                },
+                {
+                    "name": "places/ChIJ4-V6ucZOgzgRxUFh0Cfr5q0/photos/ATplDJYQTrUYwsN68w-GeC9AINCr-EajPYa8AR19u05r0gxKvIliYhFmfXFL9JXqMAsBaXIReTrHOfAtb5N0MDR5XNgV8aFldIR30-W54o3dLZx2vYtlJAg7cmguE0MKdqEkFFybOYe6aeBMMOJ9dQESIjv8kHhMcVbIeAmg",
+                    "widthPx": 2880,
+                    "heightPx": 2160,
+                    "authorAttributions": [
+                        {
+                            "displayName": "Айкын Кызырбек",
+                            "uri": "//maps.google.com/maps/contrib/107736463001995019742",
+                            "photoUri": "//lh3.googleusercontent.com/a/ACg8ocJxEV2fFcG584SbnTvFnbJPYwvG4MMmUHkpv-TJ09zkI2ILUA=s100-p-k-no-mo"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ChIJbadcWRJPgzgRF4OXD62IUDc",
+            "formattedAddress": "5HC7+C86, Жандосов ауылы, Kazakhstan",
+            "location": {
+                "latitude": 43.171043399999995,
+                "longitude": 76.56327259999999
+            },
+            "displayName": {
+                "text": "Almaty",
+                "languageCode": "en"
+            },
+            "shortFormattedAddress": "5HC7+C86, Жандосов ауылы"
+        },
+        {
+            "id": "ChIJs8dgJAlPgzgRHIFA8tbCjmc",
+            "formattedAddress": "6H2W+GVH, Ulitsa Saukele, Kazakhstan",
+            "location": {
+                "latitude": 43.201304300000004,
+                "longitude": 76.59723369999999
+            },
+            "displayName": {
+                "text": "Релакс цент « У Царевича»",
+                "languageCode": "ru"
+            },
+            "shortFormattedAddress": "6H2W+GVH, Ulitsa Saukele"
+        },
+        {
+            "id": "ChIJy7zfJwBPgzgR1xipVTXUzh4",
+            "formattedAddress": "5HJX+4X, Kaskelen, Kazakhstan",
+            "location": {
+                "latitude": 43.180291100000005,
+                "longitude": 76.599948
+            },
+            "displayName": {
+                "text": "Relax Time «У Царевича»",
+                "languageCode": "ru"
+            },
+            "shortFormattedAddress": "5HJX+4X, Kaskelen"
+        }
+    ]
+}
