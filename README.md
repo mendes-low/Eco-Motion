@@ -10,8 +10,9 @@ This app is designed for residents of Almaty, Kazakhstan, to help them chooser e
 
 How to get started:
 
-1. Install the dependencies using the npm i command.
-2. There are two ways to get started with the EcoMotion Almaty project:
+Install the dependencies using the "npm i" command.
+
+There are two ways to get started with the EcoMotion Almaty project:
 
 1. Through Expo Go (recommended):
 1) For convenience and speed of development, it is recommended to use Expo Go:
