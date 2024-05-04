@@ -1,10 +1,10 @@
 # Eco-Motion
 
-EcoMotion Almaty:
 This is the EcoMotion Almaty project, an application for tracking environmentally friendly transport, integrating air quality data and motivating users to reduce carbon dioxide emissions.
 
 
 Description of the project:
+
 This app is designed for residents of Almaty, Kazakhstan, to help them chooser environmentally cleaner modes of transport based on data on their pollution levels and contribution to atmospheric conditions.
 
 
